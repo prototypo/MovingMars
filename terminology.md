@@ -50,7 +50,7 @@ Multiple dunbars meet weekly in a temple. There they are instructed by pulpiteer
 An ecclesical runs a sanctuary. They are sort of big temples, and used as regional headquarters for the Eliza. Ecclesicals wear purple robes and have hair.
 
 
-#Hierarchy of Priests
+# Hierarchy of Priests
 
 * Purple robes, hair: Ecclesicals 
 * Yellow robes, head shaved: Pulpiteers, aspirants
