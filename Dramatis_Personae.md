@@ -16,6 +16,8 @@ Sarah, Aapo's mother.
 
 ## Aapo's fellow students
 
+Alanna, TODO
+
 TODO
 
 ## Spacecraft:
