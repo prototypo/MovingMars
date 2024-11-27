@@ -4,6 +4,7 @@
 
 * __Aspirants__: Ecclesicals in training. They wear yellow robes and shave their heads.
 * __Coadjutors__: Assistants to pulpiteers. They wear taupe robes and shave their heads.
+*__Curveball__: A computer game; one of several used by the Eliza to identify promising individuals.
 * __Eliza__: The church that became the government. Founded in North America by Garbi Elizondo.
 * __Conventicle__: A secret gathering of those working outside of and possibly contrary to the Eliza.
 * __Dunbar__: A lifetime group of no more than 150 people, living in a single building or close neighbourhood.
@@ -55,3 +56,4 @@ An ecclesical runs a sanctuary. They are sort of big temples, and used as region
 * Purple robes, hair: Ecclesicals 
 * Yellow robes, head shaved: Pulpiteers, aspirants
 * Taupe robes, head shaved: Novices, coadjutors, neighbourhood priests (beginning and end of a career)
+* Black robes, students

@@ -3,5 +3,7 @@
 \contentsline {chapter}{\numberline {1}Albatenius}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Aapo}{3}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Underway}{11}{chapter.3}%
-\contentsline {chapter}{\numberline {4}First Rock}{13}{chapter.4}%
-\contentsline {chapter}{About the Author}{14}{section*.4}%
+\contentsline {chapter}{\numberline {4}Stepping Stone}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}First Rock}{17}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Arrival}{19}{chapter.6}%
+\contentsline {chapter}{About the Author}{20}{section*.4}%

@@ -8,11 +8,13 @@ Garbi Elizondo, founder of Eliza. Originally a capitalist /trillionaire/ who use
 
 Guang ("Glorious"), the female priest who confronts Aapo and offers his mother a choice. Her androgynous name should not be confused with Gang ("powerful"), a male name.
 
-## Aapo's Family
+## Aapo's Dunbar
 
 Thomas, Aapo's older brother.
 
 Sarah, Aapo's mother.
+
+Elder Mattias, Aapo's neighbourhood priest.
 
 ## Aapo's fellow students
 

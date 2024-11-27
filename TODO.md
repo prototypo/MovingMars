@@ -20,6 +20,8 @@ The much-loved pet should be simultaneously guilty of spying, and causing the pr
 
 - Series of interludes: Each named Rock makes progress.
 
+- See https://space.stackexchange.com/questions/3612/calculating-solar-system-escape-and-and-sun-dive-delta-v-from-lower-earth-orbit#3613 for solar dive of one of the rocks.
+
 - Later chapter: Mars moves. View of event from news media, Mars satellites, rovers. Bacterial life on Mars? Effects?
 
 - Later chapter: There is crisis on Earth as it disturbs Earth's orbit. The result is to move Earth slightly outward, back toward the middle of the Goldilocks Zone, and assisting with global warming.
