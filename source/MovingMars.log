@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  27 NOV 2024 18:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  28 NOV 2024 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -643,7 +643,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 (./front-back-matter/acknowledgements.aux) (./front-back-matter/preface.aux)
 (./front-back-matter/note-to-the-reader.aux) (./Albatenius/Albatenius.aux)
 (./Aapo/Aapo.aux) (./Underway/Underway.aux) (./SteppingStone/SteppingStone.aux)
-(./FirstRock/FirstRock.aux) (./Arrival/Arrival.aux)
+(./FirstRock/FirstRock.aux) (./Eliza/Eliza.aux)
+(./Perturbation/Perturbation.aux) (./Arrival/Arrival.aux)
 (./front-back-matter/abouttheauthor.aux))
 \openout1 = `MovingMars.aux'.
 
@@ -743,7 +744,7 @@ LaTeX Info: Redefining \nameref on input line 125.
 \openout4 = `MovingMars.out'.
 
 \c@lstlisting=\count306
-<cover/MovingMarsfront.jpg, id=40, 435.31194pt x 653.08876pt>
+<cover/MovingMarsfront.jpg, id=48, 435.31194pt x 653.08876pt>
 File: cover/MovingMarsfront.jpg Graphic file (type jpg)
 <use cover/MovingMarsfront.jpg>
 Package pdftex.def Info: cover/MovingMarsfront.jpg  used on input line 134.
@@ -772,7 +773,7 @@ l.191 \begin{titlepage}
                         [2
 
 ]
-<cover/MovingMarsfront_top.jpg, id=58, 1807.75375pt x 1227.58624pt>
+<cover/MovingMarsfront_top.jpg, id=66, 1807.75375pt x 1227.58624pt>
 File: cover/MovingMarsfront_top.jpg Graphic file (type jpg)
 <use cover/MovingMarsfront_top.jpg>
 Package pdftex.def Info: cover/MovingMarsfront_top.jpg  used on input line 196.
@@ -936,63 +937,82 @@ Underfull \vbox (badness 4328) has occurred while \output is active []
 
 
 ]
-[14] [15])
+[14] [15] [16] [17] [18] [19])
 \openout2 = `FirstRock/FirstRock.aux'.
 
- (./FirstRock/FirstRock.tex [16
+ (./FirstRock/FirstRock.tex [20
 
 
 
 ]
 Chapter 5.
-[17])
-\openout2 = `Arrival/Arrival.aux'.
+[21])
+\openout2 = `Eliza/Eliza.aux'.
 
- (./Arrival/Arrival.tex [18
+ (./Eliza/Eliza.tex [22
 
 
 
 ]
 Chapter 6.
-[19])
+[23])
+\openout2 = `Perturbation/Perturbation.aux'.
+
+ (./Perturbation/Perturbation.tex [24
+
+
+
+]
+Chapter 7.
+[25])
+\openout2 = `Arrival/Arrival.aux'.
+
+ (./Arrival/Arrival.tex [26
+
+
+
+]
+Chapter 8.
+[27])
 \openout2 = `front-back-matter/abouttheauthor.aux'.
 
- (./front-back-matter/abouttheauthor.tex) [20
+ (./front-back-matter/abouttheauthor.tex) [28
 
 
 ]
 No file MovingMars.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
 (./MovingMars.aux (./front-back-matter/dedication.aux)
 (./front-back-matter/acknowledgements.aux) (./front-back-matter/preface.aux)
 (./front-back-matter/note-to-the-reader.aux) (./Albatenius/Albatenius.aux)
 (./Aapo/Aapo.aux) (./Underway/Underway.aux) (./SteppingStone/SteppingStone.aux)
-(./FirstRock/FirstRock.aux) (./Arrival/Arrival.aux)
+(./FirstRock/FirstRock.aux) (./Eliza/Eliza.aux)
+(./Perturbation/Perturbation.aux) (./Arrival/Arrival.aux)
 (./front-back-matter/abouttheauthor.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 291.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
 Package rerunfilecheck Info: File `MovingMars.out' has not changed.
-(rerunfilecheck)             Checksum: 4045E717BAB53B1CD2F08289AEA12D9E;412.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
+(rerunfilecheck)             Checksum: 5341E0050320FD49FD91B839680AE526;501.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
  ) 
 Here is how much of TeX's memory you used:
- 11529 strings out of 480608
- 171080 string characters out of 5903630
- 458149 words of memory out of 5000000
- 27031 multiletter control sequences out of 15000+600000
+ 11565 strings out of 480608
+ 171656 string characters out of 5903630
+ 459137 words of memory out of 5000000
+ 27041 multiletter control sequences out of 15000+600000
  572789 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,13n,48p,775b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,13n,48p,774b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on MovingMars.pdf (33 pages, 4623282 bytes).
+Output written on MovingMars.pdf (41 pages, 4633725 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 99 words of extra memory for PDF output out of 10000 (max. 10000000)
 

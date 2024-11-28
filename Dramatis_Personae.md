@@ -18,6 +18,8 @@ Elder Mattias, Aapo's neighbourhood priest.
 
 ## Aapo's fellow students
 
+Elisa, a natural leader. She is three years older than Aapo.
+
 Alanna, TODO
 
 TODO

@@ -13,11 +13,12 @@
 * __Founder__: Garbi Elizondo, founder of Eliza.
 * __Mask__: A super-headset for VR meetings that covers the entire face in order to convey fascial expressions.
 * __Neighbourhood priest__: A local overseer of a dunbar. Retirees from the hierarchy. They wear taupe robes.
-* __Proms__ (from "promotional videos"): TV, movies, YouTube equivalent.
+* __NEO__: Near Earth object, an asteroid whose orbit brings it close to Earth at some point.
+* __Proms__: TV, movies, YouTube equivalent (from "promotional videos").
 * __Pulpiteer__: The top priest of a temple. They wear yellow robes and preach weekly to multiple dunbars.
 * __Sanctuary__: A headquarters for multiple temples. They also serve as Eliza-sponsored universities.
 * __Slate__: An external mobile computer.
-* __Temple__: A gathering place and headquarters for weekly meetings of local dunbars.
+* __Temple__: A gathering place and headquarters for mandatory weekly meetings of local dunbars.
 
 __NB__: A neighbourhood priest wears a taupe robe, but they should not be thought of as junior to ecclesicals. They return to taupe robes at the end of their careers.
 
@@ -33,7 +34,7 @@ __NB__: A neighbourhood priest wears a taupe robe, but they should not be though
 
 ## Anglicised Basque
 
-TODO :) Basque is an extremely difficult language to learn because it is so different from most other languages. I chose this language and culture for the Founder specifically because of the isolation and difference.
+TODO :) Basque is an extremely difficult language to learn because it is so different from most other languages. This language and culture was chosen for the Founder specifically because of the isolation and difference.
 
 
 # Notes
@@ -55,5 +56,6 @@ An ecclesical runs a sanctuary. They are sort of big temples, and used as region
 
 * Purple robes, hair: Ecclesicals 
 * Yellow robes, head shaved: Pulpiteers, aspirants
-* Taupe robes, head shaved: Novices, coadjutors, neighbourhood priests (beginning and end of a career)
+* Taupe robes with a thin black stipe at the bottom of the sleeves, head shaved: Coadjutors
+* Taupe robes, head shaved: Novices, neighbourhood priests (beginning and end of a career)
 * Black robes, students
