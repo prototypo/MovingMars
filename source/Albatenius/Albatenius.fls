@@ -1,6 +1,0 @@
-PWD /Users/davidhyland-wood/Dropbox (3 Round Stones)/Dave - personal/Writing/books/In Progress/Moving Mars/source/Albatenius
-INPUT /usr/local/texlive/2020/texmf.cnf
-INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT Albatenius.tex
-OUTPUT Albatenius.log
