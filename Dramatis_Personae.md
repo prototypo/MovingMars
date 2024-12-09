@@ -27,7 +27,12 @@ TODO
 ## Spacecraft:
 
 Albatenius: An observatory of the Sun in solar orbit, named after the ninth century astronomer Al-Battani.
-
+Brasilsat E6: A defunct Brazilian communications satellite.
+Inmarsat 17: A defunct television broadcasting satellite.
+Turksat 12A: A defunct Turkish communications satellite.
+Paksat-5: A defunct Pakistani communications satellite.
+Hotbird 16B: A defunct Eutelsat on-orbit spare intended to serve communications in Africa. It was never used.
+Yaogan 72-01F: A defunct Chinese on-orbit inspection satellite suspected of carrying anti-satellite weapons.
 
 ## Rocks:
 

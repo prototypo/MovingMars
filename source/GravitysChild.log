@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  4 DEC 2024 14:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  5 DEC 2024 18:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -964,7 +964,7 @@ Chapter 6.
 ]
 Chapter 7.
 
-Underfull \vbox (badness 4328) has occurred while \output is active []
+Underfull \vbox (badness 2726) has occurred while \output is active []
 
  [25]
 [26])
@@ -1012,7 +1012,7 @@ exlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on GravitysChild.pdf (41 pages, 2958551 bytes).
+Output written on GravitysChild.pdf (41 pages, 2959636 bytes).
 PDF statistics:
  272 PDF objects out of 1000 (max. 8388607)
  220 compressed objects within 3 object streams
