@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  5 DEC 2024 18:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.8.26)  21 DEC 2024 14:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -954,32 +954,36 @@ Chapter 5.
 
 ]
 Chapter 6.
-[23])
+
+Underfull \vbox (badness 1281) has occurred while \output is active []
+
+ [23]
+[24] [25] [26])
 \openout2 = `Perturbation/Perturbation.aux'.
 
- (./Perturbation/Perturbation.tex [24
-
-
-
-]
+ (./Perturbation/Perturbation.tex
 Chapter 7.
 
 Underfull \vbox (badness 2726) has occurred while \output is active []
 
- [25]
-[26])
+ [27
+
+
+
+]
+[28])
 \openout2 = `Arrival/Arrival.aux'.
 
  (./Arrival/Arrival.tex
 Chapter 8.
-[27
+[29
 
 
 
 ])
 \openout2 = `front-back-matter/abouttheauthor.aux'.
 
- (./front-back-matter/abouttheauthor.tex) [28
+ (./front-back-matter/abouttheauthor.tex) [30
 
 
 ]
@@ -1000,8 +1004,8 @@ Package rerunfilecheck Info: File `GravitysChild.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
  ) 
 Here is how much of TeX's memory you used:
- 11565 strings out of 480608
- 171773 string characters out of 5903630
+ 11567 strings out of 480608
+ 171787 string characters out of 5903630
  459144 words of memory out of 5000000
  27041 multiletter control sequences out of 15000+600000
  572789 words of font info for 67 fonts, out of 8000000 for 9000
@@ -1012,10 +1016,10 @@ exlive/2020/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2020/texmf-
 dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on GravitysChild.pdf (41 pages, 2959636 bytes).
+Output written on GravitysChild.pdf (43 pages, 2965678 bytes).
 PDF statistics:
- 272 PDF objects out of 1000 (max. 8388607)
- 220 compressed objects within 3 object streams
- 49 named destinations out of 1000 (max. 500000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 51 named destinations out of 1000 (max. 500000)
  99 words of extra memory for PDF output out of 10000 (max. 10000000)
 

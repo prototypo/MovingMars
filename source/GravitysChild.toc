@@ -6,6 +6,6 @@
 \contentsline {chapter}{\numberline {4}Stepping Stone}{13}{chapter.4}%
 \contentsline {chapter}{\numberline {5}First Rock}{21}{chapter.5}%
 \contentsline {chapter}{\numberline {6}Eliza}{23}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Perturbation}{25}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Arrival}{27}{chapter.8}%
-\contentsline {chapter}{About the Author}{28}{section*.4}%
+\contentsline {chapter}{\numberline {7}Perturbation}{27}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Arrival}{29}{chapter.8}%
+\contentsline {chapter}{About the Author}{30}{section*.4}%

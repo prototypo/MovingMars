@@ -45,7 +45,7 @@ Dunbar families live in a single room. Single adults share a room with other sin
 
 Dunbars are capped at 150 people. In the past, a dunbar would split when it exceeded its population limit. However, new population controls were eventually introduced to maintain a dunbar so that it would not be allowed to grow. Allowance for a new baby is issued by the local temple when a member dies, and allocated by a dunbar to a set of parents by the neighbourhood priest, or communal consent, depending on how the dunbar is run. Unapproved babies that cause a dunbar to exceed its population quota cause immediate and non-appealable banishment of both parents and child. They are left to make their way on their own, if they can.
 
-Neighbourhood priests wear taupe robes, and shave their heads. They are addressed as "Elder", and generally are old men and women. It is considered a retirement job for long service to the Eliza.
+Neighbourhood priests wear taupe robes, and shave their heads. They are addressed as "Elder", and generally are old men and women. It is considered a retirement job for long service to Eliza, or perhaps a way to retain the services of the elderly.
 
 Multiple dunbars meet weekly in a temple. There they are instructed by pulpiteers. Pulpiteers wear yellow robes, and are assisted by coadjutors who wear taupe robes. Pulpiteers and coadjutors shave their heads.
 

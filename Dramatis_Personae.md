@@ -20,7 +20,11 @@ Elder Mattias, Aapo's neighbourhood priest.
 
 Elisa, a natural leader. She is three years older than Aapo.
 
-Alanna, TODO
+Alanna, a highly intuitive thinker.
+
+Alejandro, an aggressive smartarse.
+
+Sergio, a quiet boy, friends with Aapo. Good at math, but not as good as Aapo.
 
 TODO
 
